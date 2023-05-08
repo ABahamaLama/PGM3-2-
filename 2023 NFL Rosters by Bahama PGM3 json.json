@@ -19,7 +19,7 @@
     "draftSeason": 2022,
     "draftNum": 145,
     "teamID": "Free Agent",
-    "teamNum": 69,
+    "teamNum": 0,
     "salary": 0,
     "eSalary": 0,
     "guarantee": 0,
@@ -12403,7 +12403,7 @@
     "draftSeason": 2015,
     "draftNum": 167,
     "teamID": "Free Agent",
-    "teamNum": 33,
+    "teamNum": 0,
     "salary": 0,
     "eSalary": 0,
     "guarantee": 0,
@@ -19987,7 +19987,7 @@
     "draftSeason": 2010,
     "draftNum": 196,
     "teamID": "Free Agent",
-    "teamNum": 81,
+    "teamNum": 0,
     "salary": 0,
     "eSalary": 0,
     "guarantee": 0,
@@ -70079,7 +70079,6 @@
       -1100
     ]
   },
-  [
     {
       "iden": "B3242AFA-3305-282E-5535-9FD245D9C5E6",
       "forename": "Raekwon",
@@ -151604,7 +151603,7 @@
       "draftSeason": 2013,
       "draftNum": 191,
       "teamID": "Free Agent",
-      "teamNum": 12,
+      "teamNum": 0,
       "salary": 0,
       "eSalary": 0,
       "guarantee": 0,
@@ -151796,13 +151795,13 @@
       "draftSeason": 2013,
       "draftNum": 87,
       "teamID": "Free Agent",
-      "teamNum": 28,
-      "salary": 700001,
-      "eSalary": 700001,
+      "teamNum": 0,
+      "salary": 0,
+      "eSalary": 0,
       "guarantee": 0,
       "eGuarantee": 0,
-      "length": 1,
-      "eLength": 1,
+      "length": 0,
+      "eLength": 0,
       "rating": 98,
       "potential": 0,
       "loyalty": 83,
@@ -197857,4 +197856,3 @@
       ]
     }
   ]
-]
