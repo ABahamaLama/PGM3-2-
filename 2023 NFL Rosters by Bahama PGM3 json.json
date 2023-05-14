@@ -108003,7 +108003,7 @@
       "iden": "4C7A5E6D-C72B-3405-A101-BD3D7B206CEC",
       "forename": "Bryce",
       "surname": "Young",
-      "age": 21
+      "age": 21,
       "appearance": [
         "Head2a",
         "Eyes1b",
@@ -108016,7 +108016,7 @@
         "Clothes1"
       ],
       "position": "QB",
-      "draftSeason": 2022
+      "draftSeason": 2022,
       "draftNum": 162,
       "teamID": "CAR",
       "teamNum": 0,
